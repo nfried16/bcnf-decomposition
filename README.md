@@ -19,3 +19,6 @@ The only main method is in Decompose.java:
     - `javac *.java`
 - Run
     - `java Decompose`
+
+## Other Tips
+- Hit enter twice to indicate end of functional dependencies
